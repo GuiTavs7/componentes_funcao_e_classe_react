@@ -6,16 +6,16 @@ function App() {
 
   return (
     <>
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
-      <Card />
+      <Card title = 'Título Card 1'/>
+      <Card title = 'Título Card 2' />
+      <Card title = 'Título Card 3' />
+      <Card title = 'Título Card 4' />
+      <Card title = 'Título Card 5' />
+      <Card title = 'Título Card 6' />
+      <Card title = 'Título Card 7' />
+      <Card title = 'Título Card 8' />
+      <Card title = 'Título Card 9' />
+      <Card title = 'Título Card 10'/>
     </>
   )
 }
